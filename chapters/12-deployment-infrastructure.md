@@ -80,5 +80,5 @@ Our infrastructure-first approach demonstrates how strategic operational capabil
 
 ---
 
-*Continue to [Chapter 13: Scaling Strategies →](chapter13-scaling-strategies.md)*
+*Continue to [Chapter 13: Scaling Strategies →](13-scaling-strategies.md)*
 

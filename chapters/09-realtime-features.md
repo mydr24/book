@@ -417,4 +417,4 @@ In our next chapter, we'll explore how MyDR24 achieved industry-leading performa
 
 ---
 
-**Next Chapter**: [Performance Optimization & Scalability](./chapter10-performance-optimization.md) - How we achieved sub-second response times and 99.99% uptime for millions of healthcare users.
+**Next Chapter**: [Performance Optimization & Scalability](./10-performance-optimization.md) - How we achieved sub-second response times and 99.99% uptime for millions of healthcare users.

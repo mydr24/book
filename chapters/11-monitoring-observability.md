@@ -427,7 +427,7 @@ In our next chapter, we'll explore how MyDR24 built comprehensive deployment and
 
 ---
 
-**Next Chapter**: [Deployment & Infrastructure Excellence](./chapter12-deployment-infrastructure.md) - How we built scalable, secure, and globally distributed infrastructure that supports millions of patients while maintaining operational excellence.
+**Next Chapter**: [Deployment & Infrastructure Excellence](./12-deployment-infrastructure.md) - How we built scalable, secure, and globally distributed infrastructure that supports millions of patients while maintaining operational excellence.
 
 ## Real-Time Healthcare Intelligence Dashboards
 
@@ -851,4 +851,4 @@ In our next chapter, we'll explore how MyDR24 built comprehensive deployment and
 
 ---
 
-**Next Chapter**: [Deployment & Infrastructure Excellence](./chapter12-deployment-infrastructure.md) - How we built scalable, secure, and globally distributed infrastructure that supports millions of patients while maintaining operational excellence and enabling rapid global expansion.
+**Next Chapter**: [Deployment & Infrastructure Excellence](./12-deployment-infrastructure.md) - How we built scalable, secure, and globally distributed infrastructure that supports millions of patients while maintaining operational excellence and enabling rapid global expansion.

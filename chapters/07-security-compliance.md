@@ -89,5 +89,5 @@ Our security-first approach demonstrates how comprehensive risk management, comb
 
 ---
 
-*Continue to [Chapter 8: Testing & Quality Assurance →](chapter08-testing-qa.md)*
+*Continue to [Chapter 8: Testing & Quality Assurance →](08-testing-qa.md)*
 

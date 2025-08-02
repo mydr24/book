@@ -281,5 +281,5 @@ Our API-first approach demonstrates how strategic technology architecture, combi
 
 ---
 
-*Continue to [Chapter 7: Security & Compliance Framework →](../part3-advanced-features/chapter07-security-compliance.md)*
+*Continue to [Chapter 7: Security & Compliance Framework →](07-security-compliance.md)*
 

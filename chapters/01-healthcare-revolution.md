@@ -3,7 +3,7 @@
 
 ## The Spark of Innovation
 
-In 2024, as we witnessed the acceleration of digital transformation across industries, healthcare remained one of the most fragmented and technologically underserved sectors. The pandemic had exposed critical gaps in healthcare delivery, patient engagement, and provider coordination. It was in this context that the vision for MyDR24 emerged—not just as another healthcare platform, but as a comprehensive solution to transform the entire healthcare experience.
+In 2019, as we witnessed the acceleration of digital transformation across industries, healthcare remained one of the most fragmented and technologically underserved sectors. The global pandemic that emerged in 2020 exposed critical gaps in healthcare delivery, patient engagement, and provider coordination, creating an unprecedented opportunity for innovation. It was in this context of urgent need and market readiness that the vision for MyDR24 emerged—not just as another healthcare platform, but as a comprehensive solution to transform the entire healthcare experience.
 
 ## The Healthcare Crisis: A $4 Trillion Opportunity
 
@@ -125,7 +125,7 @@ The digital health transformation represents one of the largest business opportu
 
 ```mermaid
 graph TB
-    A[Global Digital Health Market] --> B[$659B by 2025]
+    A[Global Digital Health Market] --> B[$659B Current Market]
     A --> C[Telemedicine: $396B by 2027]
     A --> D[Healthcare AI: $102B by 2028]
     A --> E[mHealth Apps: $236B by 2026]
@@ -313,4 +313,4 @@ The foundation was set. Now came the challenging work of turning vision into rea
 
 ---
 
-**Next Chapter**: [From Idea to Architecture](./chapter02-idea-to-architecture.md) - How we translated our healthcare vision into technical specifications and system design.
+**Next Chapter**: [From Idea to Architecture](./02-platform-design.md) - How we translated our healthcare vision into technical specifications and system design.

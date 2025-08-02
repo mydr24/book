@@ -362,4 +362,4 @@ MyDR24's scaling excellence creates multiple interconnected value creation mecha
 
 ---
 
-**Next Chapter**: [Operations & Maintenance Excellence](./chapter14-operations-maintenance.md) - How we built sustainable operational excellence that maintains platform reliability while enabling continuous innovation and global healthcare transformation.
+**Next Chapter**: [Operations & Maintenance Excellence](./14-operations-maintenance.md) - How we built sustainable operational excellence that maintains platform reliability while enabling continuous innovation and global healthcare transformation.
