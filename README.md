@@ -63,6 +63,7 @@ This book provides comprehensive frameworks and real innovation examples for:
 | [12](./chapters/12-deployment-infrastructure.md) | Infrastructure & Global Expansion | Scaling Strategy | Global healthcare platform infrastructure planning |
 | [13](./chapters/13-scaling-strategies.md) | Scaling Strategies & Growth | Market Expansion Framework | Healthcare platform scaling methodology |
 | [14](./chapters/14-operations-maintenance.md) | Operations & Continuous Innovation | Operational Leadership | Healthcare operations excellence framework |
+| [15](./chapters/15-design-references.md) | Design References (Figma) | Visual Design System & MVP Flows | Instant Service Flow screens, components, tokens |
 
 ## **Book Chapters**
 
